@@ -51,5 +51,3 @@ eVOt demonstrates how cryptography can greatly improve the safety and reliabilit
 
 ---
 
-### **1️⃣ Admin Registration Flow (Encrypted Credential Storage)**
-
