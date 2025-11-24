@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1763974294 source:d:\evot\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
